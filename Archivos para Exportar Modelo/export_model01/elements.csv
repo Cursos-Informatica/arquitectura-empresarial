@@ -1,0 +1,114 @@
+"ID";"Type";"Name";"Documentation";"Specialization"
+"id-087419d598194eee80c7f93ba8b591d1";"ArchimateModel";"Seguros_Arqui";"";""
+"id-f32a9b86a3eb4109be0d303149afa8ad";"Capability";"Gestión digital de clientes";"";""
+"id-518ffeef465a44169c23f8bdfdae043f";"Capability";"Seguros basados en datos";"";""
+"id-e2a37140d69f4783adccc7edc2a5f411";"CourseOfAction";"Estrategia de vinculación digital con el cliente";"";""
+"id-e2dc2820b1904ced800b499c2da9723a";"Resource";"Apps de redes sociales";"";""
+"id-7ce7d0b450e34c718b860708b906b15b";"Resource";"Automatización de Analisis de Datos";"";""
+"id-f134ed0a1eb845aea3e33e6cf25607d7";"Resource";"Automatización de CRM en toda la empresa";"";""
+"id-7aeff755ee2841e2b44e6f0cfc8327f7";"Resource";"Automatización del Back Office integrado";"";""
+"id-42a8aa379fd645e29cfe9fad3a5158d8";"Resource";"Fuentes de Datos Externas";"";""
+"id-6d9ac724750b4ccea089a3973ebbefc5";"Resource";"Personal con competencias en Analisis de Datos";"";""
+"id-b667029b5b9e4317a28049eaac51269d";"Resource";"Personal con competencias en Redes Sociales";"";""
+"id-fc85299545c146da9d83a70842a79dee";"ValueStream";"01 Desarrollar Productos";"";""
+"id-dc81dac9f74b41349be573084f79da4e";"ValueStream";"02 Comercializar y vender los productos";"";""
+"id-78170a866bef4a7ab489e956abc1edde";"ValueStream";"03 Gestionar politicas y reclamaciones";"";""
+"id-bdd7abee05394ba9aa410ca0dcb49055";"ValueStream";"04 Atender a Clientes";"";""
+"id-6ee66f601fdb4419aaf304bf5f3f76ab";"ValueStream";"Adquisición Producto de Seguros";"";""
+"id-be7731859dff47ee99e3eb82546476c3";"BusinessActor";"Back Office";"";""
+"id-648256d031d446c8965510d25f3c3e3a";"BusinessActor";"Centro de servicios compartidos";"";""
+"id-bcee79f5a155458e854c3347298eb478";"BusinessActor";"Front Office";"";""
+"id-b501050d4ec145759a3310408f1e6998";"BusinessActor";"Gestion de automóviles";"";""
+"id-17e3c13511e9469680c125e25db76d59";"BusinessActor";"Gestión de gastos legales";"";""
+"id-d0f71d4638ab46289dbc9029bc081844";"BusinessActor";"Gestión de vivienda y viajes";"";""
+"id-c0f1fbc9412040978270e0afb781dd70";"BusinessActor";"Seguros Arqui";"";""
+"id-b13809e6f1ad4b12b27dd62a876bcf54";"ApplicationComponent";"Propuesta de Solucion de Arquitectura";"";""
+"id-b7ff6693f1294c9dacaf41001322d5ff";"Assessment";"Amplia cobertura de productos";"";""
+"id-d17058d2bb654f21b18518f250c6e9e4";"Assessment";"Clientes se van a la competencia con experiencia digital superior ";"";""
+"id-365161b6bb3a4de9a1c1d502a64c7a4e";"Assessment";"Clientes se van a la competencia con primas de seguros más bajas";"";""
+"id-765f23d6e35b4b8b9f1cc91b44fde434";"Assessment";"Clientes se van a la competencia con primas más bajas";"";""
+"id-0c0879cb84754eaaa410eb3c5442de61";"Assessment";"Fortalecer posición de la marca";"";""
+"id-903e0ba925464dc0a700bd57abf89286";"Assessment";"Ineficiencias en operaciones internas";"";""
+"id-ad3798e4cd9a4447adab36b74d97484e";"Driver";"Metas Ventas";"";""
+"id-a5c6dca4bd2d44c8811afe2a64e5750c";"Driver";"Portafolio Producto";"";""
+"id-f6556569672c4638abe9e9ea269c3f2e";"Driver";"Precio";"";""
+"id-08bc8346417f44dd9251c58cab455d0b";"Driver";"Rentabilidad";"";""
+"id-d7531fa58880471f93d51a2c4f9ef407";"Driver";"Satisfaccion Cliente";"";""
+"id-0a922c67c5864a3b826ed4f08f0d83e7";"Driver";"Satisfaccion Interesados";"";""
+"id-1745c2d447534fc783945f54a333d72a";"Goal";"Configuración de primas competitivas";"";""
+"id-a9de1e4c97534eb683d14f1e5139328c";"Goal";"Incrementar las ganancias";"";""
+"id-5d8e24651beb4103b6786c806eacbfe9";"Goal";"Incremento de la cuota de mercado";"";""
+"id-c2ec88f8826c4e319cd0cf2fa9a8bb3b";"Goal";"Mayor retención de clientes";"";""
+"id-8720d2fa68fe451db32632496d27b886";"Goal";"Mejorar la consistencia de datos";"";""
+"id-454024792d6a407bab061f3a09b1b0c2";"Goal";"Mejorar la satisfacción del cliente";"";""
+"id-60a67ea9489947368a1fe9d806d7ba4c";"Goal";"Mejorar la venta cruzada existosa";"";""
+"id-6eefa6979e234d69b269766299e1dbb7";"Goal";"Reducción de costo de mantenimiento";"";""
+"id-b591e44e6a684f2c85a9e8e88816ba9c";"Goal";"Reducción de costo de personal";"";""
+"id-5204f01a814948919511915ca2d242a3";"Goal";"Reducción de costos";"";""
+"id-d4785c42d30948a7a3344c35c8468bbb";"Outcome";"90% de interacción con el cliente online";"";""
+"id-746f47eb98fc489b8467a3ebb6d1c547";"Outcome";"Información detallada del comportamiento del cliente";"";""
+"id-9ff63ce7fc074af79f2f248de65256d1";"Outcome";"La mejor experiencia de cliente online";"";""
+"id-a5e8e0fb1371480ab7fba1568d539001";"Outcome";"Margen de Rentabilidad >5% el proximo año";"";""
+"id-9141c1d2081a47919fefc3ba9fa101e1";"Outcome";"Oferta de seguros atractiva";"";""
+"id-172243d8cc9142d7b6c639b5bc1b2ffe";"Principle";"Sistema único de registro para cada elemento de datos";"";""
+"id-ba635a0c3b814f8faf67d09da1b9afcc";"Principle";"Uso común de aplicaciones";"";""
+"id-69c7fe16c4b34840bd7d9c95b3ec093e";"Requirement";"Aplicación de back office compartida para todos los productos";"";""
+"id-06c7b30b74324a798b19e2e9974c9e5c";"Requirement";"Apoyo para la administración de politicas";"";""
+"id-45b2f30be92d48d79a6d76e02adb1fb1";"Requirement";"Apoyo para las transacciones financieras";"";""
+"id-c63463c9d1994378acba29a30a7d22fa";"Requirement";"Los datos de CRM deben mantenerse de forma centralizada";"";""
+"id-09a83cc40f514d369fcf758ba912a8f2";"Requirement";"Objetivos Estrategicos";"";""
+"id-5b0bbdbeb8814f39a5f769277aead32c";"Requirement";"Requerimiento de Solucion y Requerimientos de Transición";"";""
+"id-c1f404d0393c451ca1d2086bb59cb857";"Requirement";"Requerimientos de Interesados";"";""
+"id-abd289d448dc41ce9d4b4e3562a56295";"Requirement";"Requerimientos de Negocio";"";""
+"id-da8f3522a87648c5a085831237974504";"Requirement";"Requerimientos Técnicos de Arquitectura";"";""
+"id-cea8599b5c1c4728bd5c05519c96a1b3";"Stakeholder";"Clientes";"";""
+"id-d1ab959fb10043b79d57681bfa1ded32";"Stakeholder";"Directivos";"";""
+"id-a6f45c55789c4b0fa0702e54abfb8277";"Value";"Alta satisfacción del cliente";"";""
+"id-9ec73d8aef3b44e293abd25f65104546";"Value";"Productos de seguros innovadores";"";""
+"id-c97ab788b568498a9353093994106da7";"Value";"Productos ofrecidos y vendidos a los clientes adecuados";"";""
+"id-801ccb342fab4858933fe1169d04660d";"Value";"Productos que cumplen con las expectativas del cliente";"";""
+"id-a6673d7052544846ac70213f7429ebe6";"Location";"En Casa y Afuera";"";""
+"id-a11e75494584478aad72360d2b78b750";"Location";"LegalmenteTuyo";"";""
+"id-a2d21ae933d64ad8a8e26c912acf5210";"Location";"PRO FIT";"";""
+"id-46c67d18b7414dd3a01e628337efd751";"Location";"Seguros Arqui";"";""
+;"Capability";"Gestión Empresarial";;
+;"Capability";"Gestión Estratégica";;
+;"Capability";"Gestión Fiscal y Contable";;
+;"Capability";"Gestión de Riesgos y Cumplimiento";;
+;"Capability";"Gestión del Rendimiento";;
+;"Capability";"Arquitectura Empresarial";;
+;"Capability";"Gestión de Producto";;
+;"Capability";"Definición de Producto";;
+;"Capability";"Ingeniería de Producto";;
+;"Capability";"Marketing";;
+;"Capability";"Desarrollo de Mercado";;
+;"Capability";"Gestión de Campañas";;
+;"Capability";"Ventas y Distribución";;
+;"Capability";"Gestión de canales de distribución";;
+;"Capability";"Ejecución de ventas";;
+;"Capability";"Gestión de clientes";;
+;"Capability";"Gestión de relaciones con clientes";;
+;"Capability";"Gestión de canales de servicio";;
+;"Capability";"Gestión de datos de clientes";;
+;"Capability";"Gestión de Activos";;
+;"Capability";"Gestión de Estrategias de Inversión";;
+;"Capability";"Gestión del Rendimiento de las Inversiones";;
+;"Capability";"Gestión de la Cartera de Inversiones";;
+;"Capability";"Mantenimiento del Inventario de Activos";;
+;"Capability";"Gestión Financiera";;
+;"Capability";"Gestión Bancaria";;
+;"Capability";"Gestión de Cuentas";;
+;"Capability";"Gestión del Flujo de Caja";;
+;"Capability";"Gestión del Mercado Monetario";;
+;"Capability";"Gestión de Pólizas y Siniestros";;
+;"Capability";"Gestión del Ciclo de Vida de Contratos";;
+;"Capability";"Liquidación de Siniestros";;
+;"Capability";"Administración de Contratos";;
+;"Capability";"Administración de Siniestros";;
+;"Capability";"Soporte Empresarial";;
+;"Capability";"Desarrollo Organizacional";;
+;"Capability";"Gestión de RR.HH.";;
+;"Capability";"Gestión de Procesos";;
+;"Capability";"Gestión de Oficinas";;
+;"Capability";"Gestión de Instalaciones";;
+;"Capability";"Gestión de TI";;
