@@ -18,14 +18,14 @@ Es la aplicación práctica del ADM para diseñar, planificar e implementar arqu
 El ADM consta de 9 fases principales:
 
 Preliminary – Establecimiento del marco de arquitectura.
-A: Vision – Definición de los objetivos y el alcance de la arquitectura.
-B: Business Architecture – Diseño de la arquitectura del negocio.
-C: Information Systems Architecture – Arquitectura de datos y aplicaciones.
-D: Technology Architecture – Definición de la infraestructura tecnológica.
-E: Opportunities and Solutions – Evaluación de soluciones y roadmap.
-F: Migration Planning – Planificación de la implementación.
-G: Implementation Governance – Supervisión de la implementación.
-H: Architecture Change Management – Gestión del cambio arquitectónico.
+- __A: Vision__ – Definición de los objetivos y el alcance de la arquitectura.
+- __B: Business Architecture__ – Diseño de la arquitectura del negocio.
+- __C: Information Systems Architecture__ – Arquitectura de datos y aplicaciones.
+- __D: Technology Architecture__ – Definición de la infraestructura tecnológica.
+- __E: Opportunities and Solutions__ – Evaluación de soluciones y roadmap.
+- __F: Migration Planning__ – Planificación de la implementación.
+- __G: Implementation Governance__ – Supervisión de la implementación.
+- __H: Architecture Change Management__ – Gestión del cambio arquitectónico.
 
 ## SESIÓN 06: Dimensiones de TOGAF
 Incluyen aspectos clave como la arquitectura del negocio, aplicaciones, datos y tecnología. También abarcan la gobernanza, gestión de riesgos y la alineación con los objetivos estratégicos de la organización.
