@@ -17,7 +17,7 @@ Es la aplicación práctica del ADM para diseñar, planificar e implementar arqu
 ## SESIÓN 05: Fases de la ADM
 El ADM consta de 9 fases principales:
 
-Preliminary – Establecimiento del marco de arquitectura.
+- __Preliminary__ – Establecimiento del marco de arquitectura.
 - __A: Vision__ – Definición de los objetivos y el alcance de la arquitectura.
 - __B: Business Architecture__ – Diseño de la arquitectura del negocio.
 - __C: Information Systems Architecture__ – Arquitectura de datos y aplicaciones.
