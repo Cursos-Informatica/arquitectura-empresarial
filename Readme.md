@@ -1,4 +1,4 @@
-# SILABUS DEL CURSO DE ARQUITECTURA EMPRESARIAL Y DE SISTEMAS del Curso de Arquitectura Empresarial y de Sistemas
+# SILABUS DEL CURSO DE ARQUITECTURA EMPRESARIAL Y DE SISTEMAS
 
 ## SESIÓN 01: Fundamentos de la Arquitectura Empresarial Sistémica. Introducción TOGAF
 Se basa en la gestión estructurada de los componentes tecnológicos, procesos y estrategias de una empresa, alineando la TI con los objetivos de negocio. Se apoya en principios de la arquitectura de sistemas y modelos organizacionales para mejorar la eficiencia y la adaptabilidad.
