@@ -1,5 +1,10 @@
 # CAPITULO 1 : INTRODUCCIÓN
 
+## Introducción
+
+Es una herramienta para asistir en la aceptación, creación, uso y mantenimiento de arquitcturas.
+
+
 ## Estructura del Documento TOGAF
 
 ### 1. Introducción
@@ -24,3 +29,26 @@ Proporciona dos modelos de referencia aquitectonico:
 
 ### 7. Marco de Referencia de la Capacidad Arquitectonica
 Trata de la organizacion, procesos, habilidades, roles y responsabilidades requeridas para establer y operar una prácticade arquitectura dentro de la empresa.
+
+TOGAF refleja la estructura y el contenido de la Capacidad Arquitectónica dentro de una empresa, como se muestra en la siguiente figura.
+
+<p align="center">
+<img src="img/Contenido_TOGAF.png" width="500">
+</p>
+
+
+
+## Tipos de Arquitectura soportados por TOGAF
+
+### Arquitectura de Negocios
+La estrategia de negocio, gobierno, organización y procesos clave de la organización
+
+### Arquitectura de Datos
+La estructura de datos lógicos y fisicos que posee una organización y sus recursos de gestión de datos
+
+### Arquitectura de Aplicación 
+Un plano de las aplicaciones individuales a implementar, sus iteracciones y sus relaciones con os procesos de negocio principales de la organización
+
+### Arquitectura Tecnológica
+Las capacidades de software y hardware que se requieren para apoyar la implementación de servicios de negocios, datos y aplicación. Esto incluye infraestructura de TI, capa de mediación, redes, comunicaciones, procesamiento y estándares.
+
