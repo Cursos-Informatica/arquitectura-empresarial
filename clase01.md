@@ -84,14 +84,15 @@ TOGAF apoya la ejecución repetida de las actividades dentro de una Fase individ
 
 Resumen de Fases del ADM
 
-| Fase de ADM    | Actividad  |
-|*--------------*|*----------*|
-| Preliminar | Emprende las actividades de iniciación y preparación requeridas para crear la Capacidad Arquitectónica, incluyendo la adaptación de TOGAF, la selección de herramientas y la definición de Principios de Arquitectura.|
-| Gestión de Requerimientos | Los requeriminetos se identifican, almacenan y se gestionan al ingreso y egreso de las Fases relevantes del ADM, las cuales eliminan, abordan, y priorizan los requerimientos.|
-| Arquitectura de Negocio | Se describe como debe operar la empresa para alcanzar sus objetivos de negocio|
-| Arquitectura de SI y TI | Incluye los otros 3 dominios: Aplicaciones, Datos y Tecnología.|
-| Oportunidades y Soluciones | Realiza la planificación de la implementación inicial y la identificación de medios de entrega para los Bloques de Construcción identificados en las Fases anteriores. Determina si se requiere un enfoque incremental, y si así fuera, identifica Arquitecturas de Transición |
-| Planificación de la Migración | Desarrolla el Plan detallado de Implementación y Migración que aborda cómo moverse de la Arquitectura de la Línea de Base a la Arquitectura de Destino. |
-| Gobierno de la Implementación | Proporciona supervisión arquitectónica para la implementación. Prepara y publica Contratos de Arquitectura. Asegura que el proyecto de implementación esté en conformidad con la arquitectura |
-| Gestión de Cambios de la Arquitectura | Proporciona seguimiento continuo y un proceso de gestión de cambios para asegurar que la arquitectura responda a las necesidades de la empresa y que se maximice el valor de la arquitectura para el negocio. |
+| Fase de ADM                           | Actividad                                                                                                                                                                                                                                                                      |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Preliminar                            | Emprende las actividades de iniciación y preparación requeridas para crear la Capacidad Arquitectónica, incluyendo la adaptación de TOGAF, la selección de herramientas y la definición de Principios de Arquitectura.                                                         |
+| Gestión de Requerimientos             | Los requeriminetos se identifican, almacenan y se gestionan al ingreso y egreso de las Fases relevantes del ADM, las cuales eliminan, abordan, y priorizan los requerimientos.                                                                                                 |
+| Arquitectura de Negocio               | Se describe como debe operar la empresa para alcanzar sus objetivos de negocio                                                                                                                                                                                                 |
+| Arquitectura de SI y TI               | Incluye los otros 3 dominios: Aplicaciones, Datos y Tecnología                                                                                                                                                                                                                 |
+| Oportunidades y Soluciones            | Realiza la planificación de la implementación inicial y la identificación de medios de entrega para los Bloques de Construcción identificados en las Fases anteriores. Determina si se requiere un enfoque incremental, y si así fuera, identifica Arquitecturas de Transición |
+| Planificación de la Migración         | Desarrolla el Plan detallado de Implementación y Migración que aborda cómo moverse de la Arquitectura de la Línea de Base a la Arquitectura de Destino.                                                                                                                        |
+| Gobierno de la Implementación         | Proporciona supervisión arquitectónica para la implementación. Prepara y publica Contratos de Arquitectura. Asegura que el proyecto de implementación esté en conformidad con la arquitectura                                                                                  |
+| Gestión de Cambios de la Arquitectura | Proporciona seguimiento continuo y un proceso de gestión de cambios para asegurar que la arquitectura responda a las necesidades de la empresa y que se maximice el valor de la arquitectura para el negocio.                                                                  |
+
 
