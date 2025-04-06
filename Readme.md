@@ -1,19 +1,15 @@
 # SILABUS DEL CURSO DE ARQUITECTURA EMPRESARIAL Y DE SISTEMAS
 
-## [SESIÓN 01: Fundamentos de la Arquitectura Empresarial Sistémica](/clase01.md)
+## [SESIÓN 01: Fundamentos de la Arquitectura Empresarial Sistémica - TOGAF](/clase01.md)
 Se basa en la gestión estructurada de los componentes tecnológicos, procesos y estrategias de una empresa, alineando la TI con los objetivos de negocio. Se apoya en principios de la arquitectura de sistemas y modelos organizacionales para mejorar la eficiencia y la adaptabilidad.
 TOGAF (The Open Group Architecture Framework) es un marco para desarrollar, gestionar y gobernar la arquitectura empresarial de una organización. Proporciona metodologías, herramientas y buenas prácticas para estructurar la transformación digital de las empresas.
+TOGAF Es un conjunto de principios y metodologías que guían la creación y mantenimiento de una arquitectura empresarial. Se compone del método ADM (Architecture Development Method), un framework de contenido, gobernanza y herramientas para la implementación.
 
-## SESIÓN 02: Marco TOGAF
-Es un conjunto de principios y metodologías que guían la creación y mantenimiento de una arquitectura empresarial. Se compone del método ADM (Architecture Development Method), un framework de contenido, gobernanza y herramientas para la implementación.
-
-## [SESIÓN 03: Marco ADM](/clase03.md)
+## [SESIÓN 03 y 04: Método de desarrollo de arquitecturas - ADM](/clase02.md)
 El Architecture Development Method (ADM) es el núcleo de TOGAF y proporciona un proceso estructurado para desarrollar y gestionar arquitecturas empresariales en ciclos iterativos, desde la visión inicial hasta la implementación y mantenimiento.
-
-## SESIÓN 04: Método de desarrollo de arquitecturas
 Es la aplicación práctica del ADM para diseñar, planificar e implementar arquitecturas. Se centra en evaluar el estado actual de la empresa, definir una visión futura, planificar la transición y ejecutar los cambios necesarios.
 
-## SESIÓN 05: Fases de la ADM
+## SESIÓN 05: Fases de la ADM - PRACTICA
 El ADM consta de 9 fases principales:
 
 - __Preliminary__ – Establecimiento del marco de arquitectura.
