@@ -105,3 +105,8 @@ Luego procedemos a arrastrar el componente __"Group"__ que se encuentra dentro d
 Luego para agregar el contenido de esas etiquetas, debemos ingresar a Properties > Label > Label Expression, y agredamos el contenido. De tal manera que se vea de la siguiente forma:
 
 ![imagen01](/img_vistas/Cabecera.png)
+
+* __Nota:__
+A continuación se muestra las relaciones que serán utilizadas en la elaboración de los diagramas.
+
+![imagen02](/img_vistas/Relaciones.png)
