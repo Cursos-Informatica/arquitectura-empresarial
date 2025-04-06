@@ -96,3 +96,12 @@ Resumen de Fases del ADM
 | Gestión de Cambios de la Arquitectura | Proporciona seguimiento continuo y un proceso de gestión de cambios para asegurar que la arquitectura responda a las necesidades de la empresa y que se maximice el valor de la arquitectura para el negocio.                                                                  |
 
 
+## LABORATORIO 01 : Preparación de Plantilla
+
+Abrimos el programa Archimate, y procedemos a nombrar el proyeto, en este caso se llamara Seguros_Arqui, que hace referencia a una empresa de seguros.
+
+Luego procedemos a arrastrar el componente __"Group"__ que se encuentra dentro de la barra __Palette__, luego hacemos click en Properties > Appearance > Border > Rectangle. Esto nos convierte el gráfico en un rectangulo.
+
+Luego para agregar el contenido de esas etiquetas, debemos ingresar a Properties > Label > Label Expression, y agredamos el contenido. De tal manera que se vea de la siguiente forma:
+
+![imagen01](/img_vistas/Cabecera.png)
