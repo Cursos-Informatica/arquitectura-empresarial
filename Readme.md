@@ -5,7 +5,7 @@ Se basa en la gestión estructurada de los componentes tecnológicos, procesos y
 TOGAF (The Open Group Architecture Framework) es un marco para desarrollar, gestionar y gobernar la arquitectura empresarial de una organización. Proporciona metodologías, herramientas y buenas prácticas para estructurar la transformación digital de las empresas.
 TOGAF Es un conjunto de principios y metodologías que guían la creación y mantenimiento de una arquitectura empresarial. Se compone del método ADM (Architecture Development Method), un framework de contenido, gobernanza y herramientas para la implementación.
 
-## [SESIÓN 03 y 04: Método de desarrollo de arquitecturas - ADM](/clase02.md)
+## SESIÓN 03 y 04: Método de desarrollo de arquitecturas - ADM
 El Architecture Development Method (ADM) es el núcleo de TOGAF y proporciona un proceso estructurado para desarrollar y gestionar arquitecturas empresariales en ciclos iterativos, desde la visión inicial hasta la implementación y mantenimiento.
 Es la aplicación práctica del ADM para diseñar, planificar e implementar arquitecturas. Se centra en evaluar el estado actual de la empresa, definir una visión futura, planificar la transición y ejecutar los cambios necesarios.
 
@@ -13,17 +13,14 @@ Es la aplicación práctica del ADM para diseñar, planificar e implementar arqu
 El ADM consta de 9 fases principales:
 
 - __Preliminary__ – Establecimiento del marco de arquitectura.
-- [__A: Vision__][enlace_A] – Definición de los objetivos y el alcance de la arquitectura.
-- [__B: Business Architecture__][enlace_B] – Diseño de la arquitectura del negocio.
+- __[A: Vision](/clase02.md)__ – Definición de los objetivos y el alcance de la arquitectura.
+- __[B: Business Architecture](/clase02.md)__ – Diseño de la arquitectura del negocio.
 - __C: Information Systems Architecture__ – Arquitectura de datos y aplicaciones.
 - __D: Technology Architecture__ – Definición de la infraestructura tecnológica.
 - __E: Opportunities and Solutions__ – Evaluación de soluciones y roadmap.
 - __F: Migration Planning__ – Planificación de la implementación.
 - __G: Implementation Governance__ – Supervisión de la implementación.
 - __H: Architecture Change Management__ – Gestión del cambio arquitectónico.
-
-[enlace_A]: https://github.com/Cursos-Informatica/arquitectura-empresarial/blob/main/Vistas_Seguros_Arqui/A_Vision_Arquitectura/Fase_A_Vision_Arquitectura.md
-[enlace_B]: https://github.com/Cursos-Informatica/arquitectura-empresarial/blob/main/Vistas_Seguros_Arqui/B_Arquitectura_Negocio/Fase_B_Arquitectura_Negocio.md
 
 ## SESIÓN 06: Dimensiones de TOGAF
 Incluyen aspectos clave como la arquitectura del negocio, aplicaciones, datos y tecnología. También abarcan la gobernanza, gestión de riesgos y la alineación con los objetivos estratégicos de la organización.
