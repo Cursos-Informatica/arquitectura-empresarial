@@ -1,31 +1,64 @@
-# CAPITULO 02: EL MÉTODO DE DESARROLLO DE LA ARQUITECTURA
+# CAPITULO 02: VISION Y ARQUITECTURA DE NEGOCIO
 
-## Que es ADM
+## Fase Preliminar
 
-El metodo de desarrollo de arquitectura (ADM por sus siglas en inglés), es un método para obtener Arquitecturas Empresariales que son específicas para la organización, y está especialmente diseñado para responder a los requerimiento del negocio. El ADM describe:
-- Un modo confiable y probado para desarrollar y utilizar una Arquitectura Empresarial.
-- Un método para desarrollar arquicturas en diferentes niveles (negocio, aplicaciones, datos, tecnología) que permiten al arquitecto asegurar que un conjunto complejo de requerimientos se aborden adecuadamente.
-- Un conjunto de guías y técnicas para el desarrollo de arquitectura.
+La Fase Preliminar prepara a una organización para empreder proyectos de Arquitectura Empresarial de manera exitosa.
 
-## Las Fases del ADM
+Un resumen de esta Fase sigue a continuación:
 
-El ADM consiste en varias Fases que se desplazan cíclicamente a través de una serie de Dominios de Arquitectura y permiten al arquitecto asegurar que un conjunto complejo de requerimientos se aborden adecuadamente. La estructura básica del ADM se muestra en la siguiente figura:
+__Objetivos__
+Determinar las Capacidades Arquitectónicas deseas por la organización:
+- Examinar el contexto organizacional para llevar a cabo Arquitectura Empresarial.
+- Identificar y determinar el alcance de los elementos en las organizaciones de la empresa que serán afectadas por la Capacidad Arquitectónica.
+- Identificar los marcos de referencia establecidos, los métodos y los procesos que se entrecruzan con la Capacidad Arquitectónica.
 
-<p align="center">
-<img src="img/fases_ADM.png" width="500">
-</p>
+## Fase A: Visión de la Arquitectura
+
+La Fase A aborda el establecimiento del proyecto e inicia una interación del ciclo de desarrollo de la arquitectura, estableciendo el alcance, limitaciones y expectativas de la iteración. Se ejecuta con el objetivo de validar el contexto del negocio y producir una Declaración de Trabajo de Arquitectura aprobada.
+
+__Objetivos__
+- Desarrollar una visión de alto nivel de las Capacidades y valor de negocio que se desean obtener como resultado de la Arquitectura Empresarial propuesta.
+- Obtener la aprobación de la Declaración del Trabajo de Arquitectura que define un programa de trabajo para desarrollar e implementar la arquitectura descrita en la Visión de la Arquitectura.
+
+__Pasos__
+- Establecer el proyecto de arquitectura
+- Identificar a los interesados, las preocupaciones y los requerimientos de negocio
+- Confirmar y elaborar objetivos de negocio, motivaciones de negocio y limitaciones.
+- Evaluar las capacidades del negocio
+- Evaluar la preparación de la transformacion del negocio
+- Definir el alcance
+- Confirmar y elaborar Principios de Negocio
+- Desarrollar la Visión de la Arquitectura
+- Definir las propuestas de valor de la Arquitectura de Destino e Indicadores Clave de Desempeño (KPI - Key Performance Indicators en inglés)
+- Identificar los riesgos de la transformación del negocio y las actividades de mitigación
+- Desarrollar la Declaración de Trabajo de Arquitectura; asegurar su aprobación
+
+## LABORATORIO 01 : FASE A - Visión de la Arquitectura
+
+### 03 Vista Fragmento Interesados
+![imagen03](/img_vistas/A_Vision_Arquitectura/03%20Vista%20Fragmento%20Interesados.png)
+
+### 04 Objetivo del Negocio asociado con la Rentabilidad
+![imagen04](/img_vistas/A_Vision_Arquitectura/04%20Objetivos%20Negocio%20Asociado%20Rentabilidad.png)
+
+### 05 Vista de Principios
+![imagen05](/img_vistas/A_Vision_Arquitectura/05%20Vista%20Principios.png)
+
+## 06 Vista Refinamiento Objetivo
+![imagen06](/img_vistas/A_Vision_Arquitectura/06%20Vista%20Refinamiento%20Objetivo.png)
+
+## 07 Vista Estrategica - Largo Plazo
+![imagen07](/img_vistas/A_Vision_Arquitectura/07%20Vista%20Estrategica%20-%20Largo%20Plazo.png)
+
+## 08 Vista Conceptual de la Solución
+![imagen08](/img_vistas/A_Vision_Arquitectura/08%20Vista%20Conceptual%20de%20la%20Solucion.png)
 
 
-El ADM se aplica iterativamente durante todo el proceso, entre las diferentes Fases, y dentro de ellas. Durante todo el ciclo del ADM se debe realizar una validación frecuente de los resultados respecto a los requerimientos originales, tanto aquellos del ciclo completo del ADM como los de la Fase particular del proceso. Esta validación debe reconsiderar el alcance, los detalles, el plan y los hitos de las interaciones anteriores del proceso y los activos externos de mercado, asi como otros marcos de referencia o modelos.
+## Fase B: Arquitectura de Negocio
 
-El ADM apoya el concepto de interación de tres niveles:
+__Objetivos__
+- Desarrollar la Arquitectura de Negocio de Destino
 
-- __Ciclo alrededor del ADM__
-El ADM se presenta de manera circular indicando que la finalización de una Fase de trabajo en la arquitectura alimenta dirtectamente las Fases subsecuentes de trabajo en la arquitectura.
 
-- __Iteración entre Fases__
-TOGAF describe el concepto de la interación a través de Fases (por ejemplo, volviendo a la Arquitectura de Negocio posteriormente a la finalización de la Arquitectura Tecnológica)
 
-- __Ciclo alrededor de una Fase individual__
-TOGAF apoya la ejecución repetida de las actividades dentro de una Fase individual del ADM como una técnica para elaborar contenido arquitectónico.
 
