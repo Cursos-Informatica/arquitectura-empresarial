@@ -1,3 +1,5 @@
+# CAPITULO 02: ARQUITECTURA DE NEGOCIOS 
+
 ## Fase B: Arquitectura de Negocio
 
 __Objetivos__
@@ -13,7 +15,7 @@ __Pasos__
 - Resolver los impactos al Panorama de Arquitectura
 - Conducir una revisión formal con los interesados
 - Finalizar la Arquitectua de Negocios
-Crear el Documento de Definición de arquitectura.
+- Crear el Documento de Definición de arquitectura.
 
 ## LABORATORIO 02 : FASE B Arquitectura de Negocios
 

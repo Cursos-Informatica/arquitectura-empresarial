@@ -1,4 +1,4 @@
-# CAPITULO 02: VISION Y ARQUITECTURA DE NEGOCIO
+# CAPITULO 02: FASE PRELIMINAR y VISION ARQUITECTÓNICA 
 
 ## Fase Preliminar
 
@@ -54,10 +54,6 @@ __Pasos__
 ![imagen08](/img_vistas/A_Vision_Arquitectura/08%20Vista%20Conceptual%20de%20la%20Solucion.png)
 
 
-## Fase B: Arquitectura de Negocio
-
-__Objetivos__
-- Desarrollar la Arquitectura de Negocio de Destino
 
 
 
