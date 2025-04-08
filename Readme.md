@@ -14,8 +14,8 @@ El ADM consta de 9 fases principales:
 
 - __Preliminary__ – Establecimiento del marco de arquitectura.
 - __[A: Vision](/clase02.md)__ – Definición de los objetivos y el alcance de la arquitectura.
-- __[B: Business Architecture](/clase02.md)__ – Diseño de la arquitectura del negocio.
-- __C: Information Systems Architecture__ – Arquitectura de datos y aplicaciones.
+- __[B: Business Architecture](/clase03.md)__ – Diseño de la arquitectura del negocio.
+- __[C: Information Systems Architecture](/clase04.md)__ – Arquitectura de datos y aplicaciones.
 - __D: Technology Architecture__ – Definición de la infraestructura tecnológica.
 - __E: Opportunities and Solutions__ – Evaluación de soluciones y roadmap.
 - __F: Migration Planning__ – Planificación de la implementación.
