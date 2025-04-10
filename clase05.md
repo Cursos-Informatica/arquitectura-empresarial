@@ -1,5 +1,18 @@
 # CAPITULO 05: ARQUITECTURA TECNOLOGICA
 
+__Objetivos__
+
+- Desarrollar la Arquitectura Tecnológica de Destino de tal manera que permita que los componentes lógicos y fisicos de datos y aplicaciones, asi como aquellos de la Visión de la Arquitectura, correspondan a la Petición de Trabajo de Arquitectura y respondan a las preocupaciones de los interesados.
+- Identificar los componentes candidatos del Plan de Itinerario de Arquitectura basándose en las brechas identificadas entre la Arquitectura Tecnológica de la Línea de Base y la Arquitectura Tecnológica de Destino. 
+
+__Pasos__
+
+- Seleccionar modelos de referencia, puntos de vista y herramientas.
+- Desarrollar la descripción de la arquitectura tecnológica de la linea de base.
+- Desarrollar la descripción de la arquitectura tecnológica de Destino.
+- Realizar el Análisis de Brechas
+- Definir los componentes candidatos del Plan de Itinerario
+- Resolver los impactos en el panorama de Arquitectura
 
 ## LABORATORIO 05 : FASE D Arquitectura Tecnológica
 

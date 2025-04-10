@@ -17,10 +17,12 @@ El ADM consta de 9 fases principales:
 - __[B: Business Architecture](/clase03.md)__ – Diseño de la arquitectura del negocio.
 - __[C: Information Systems Architecture](/clase04.md)__ – Arquitectura de datos y aplicaciones.
 - __[D: Technology Architecture](/clase05.md)__ – Definición de la infraestructura tecnológica.
-- __E: Opportunities and Solutions__ – Evaluación de soluciones y roadmap.
-- __F: Migration Planning__ – Planificación de la implementación.
+- __[E: Opportunities and Solution](/clase06.md)__ – Evaluación de soluciones y roadmap.
+- __[F: Migration Planning](/clase07.md)__ – Planificación de la implementación.
 - __G: Implementation Governance__ – Supervisión de la implementación.
 - __H: Architecture Change Management__ – Gestión del cambio arquitectónico.
+
+En este capitulo utilizaremos un ejemplo que lo puedes descargar del siguiente enlace [DESCARGAR](/Descargas/ArchiSurance_v3.2.pdf)
 
 ## SESIÓN 06: Dimensiones de TOGAF
 Incluyen aspectos clave como la arquitectura del negocio, aplicaciones, datos y tecnología. También abarcan la gobernanza, gestión de riesgos y la alineación con los objetivos estratégicos de la organización.
