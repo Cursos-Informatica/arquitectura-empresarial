@@ -16,7 +16,7 @@ El ADM consta de 9 fases principales:
 - __[A: Vision](/clase02.md)__ – Definición de los objetivos y el alcance de la arquitectura.
 - __[B: Business Architecture](/clase03.md)__ – Diseño de la arquitectura del negocio.
 - __[C: Information Systems Architecture](/clase04.md)__ – Arquitectura de datos y aplicaciones.
-- __D: Technology Architecture__ – Definición de la infraestructura tecnológica.
+- __[D: Technology Architecture](/clase05.md)__ – Definición de la infraestructura tecnológica.
 - __E: Opportunities and Solutions__ – Evaluación de soluciones y roadmap.
 - __F: Migration Planning__ – Planificación de la implementación.
 - __G: Implementation Governance__ – Supervisión de la implementación.
