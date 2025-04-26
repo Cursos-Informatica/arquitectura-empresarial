@@ -17,16 +17,6 @@ __Pasos__
 - Finalizar la arquitectura de aplicación
 - Crear el documento de definición de arquitectura
 
-### Arquitectura de Aplicaciones
-__Objetivos__
-
-
-
-### Arquitectura de Datos
-__Objetivos__
-
-
-
 
 ## LABORATORIO 04 : FASE C Arquitectura de SI - Aplicaciones
 
@@ -51,12 +41,12 @@ de los flujos de información entre ellos o de los servicios que ofrecen y utili
 para crear una visión general del panorama de aplicaciones de una organización. También se utiliza para expresar la
 cooperación (interna) o la orquestación de servicios que, en conjunto, respaldan la ejecución de un proceso de negocio.
 
-![imagen22](/img_vistas/C_Arquitectura_SI_Aplicacion/22%20Cooperacion%20Aplicaciones.png)
+![imagen22](/img_vistas/C_Arquitectura_Sistemas/22%20Cooperacion%20Aplicaciones.png)
 
-![imagen22a](/img_vistas/C_Arquitectura_SI_Aplicacion/22%20Visualizer.png)
+![imagen22a](/img_vistas/C_Arquitectura_Sistemas/22%20Visualizer.png)
 
 ### 23 Cooperacion Aplicaciones - Objetivo
-![imagen23](/img_vistas/C_Arquitectura_SI_Aplicacion/23%20Cooperacion%20Aplicaciones%20-%20Objetivo.png)
+![imagen23](/img_vistas/C_Arquitectura_Sistemas/23%20Cooperacion%20Aplicaciones%20-%20Objetivo.png)
 
 ### 24 Uso de Aplicacion - Linea Base
 
@@ -70,7 +60,7 @@ Servicio de Aplicación desempeña un papel fundamental en este punto de vista. 
 ofrecidos por las aplicaciones utilizadas por la división Home & Away de ArchiSurance, y qué subprocesos del proceso de gestión de
 siniestros utilizan cada uno de estos servicios.
 
-![imagen24](/img_vistas/C_Arquitectura_SI_Aplicacion/24%20Uso%20de%20la%20Aplicacion%20-%20Linea%20Base.png)
+![imagen24](/img_vistas/C_Arquitectura_Sistemas/24%20Uso%20de%20la%20Aplicacion%20-%20Linea%20Base.png)
 
 ### 25 Comportamiento de Aplicación - Objetivo
 
@@ -81,9 +71,9 @@ específicos de cada cliente que se utilizan para el cálculo de sus primas de s
 también se utilizan para desarrollar nuevos tipos de productos de seguros y para evaluar y ajustar la exposición general
 al riesgo de la empresa.
 
-![imagen25](/img_vistas/C_Arquitectura_SI_Aplicacion/25%20Comportamiento%20de%20Aplicacion%20-%20Objetivo.png)
+![imagen25](/img_vistas/C_Arquitectura_Sistemas/25%20Comportamiento%20de%20Aplicacion%20-%20Objetivo.png)
 
-### 26 Analisis GAP - Arquitectura Tecnologica
+### 26 Analisis GAP - Arquitectura Aplicacion
 
 Los resultados de un análisis de brechas global para la arquitectura de aplicaciones se visualizan en la Figura 26.
 Varios componentes de aplicaciones que existían en la arquitectura de línea base ya no están presentes en la
@@ -94,7 +84,7 @@ tanto, no requiere nuevos componentes (aunque podría ser necesario adaptar o re
 existente, lo cual no se refleja en el análisis de deficiencias). Además, se introduce una suite de aplicaciones de backoffice
 completamente nueva y una nueva solución de almacenamiento de datos.
 
-![imagen26](/img_vistas/C_Arquitectura_SI_Aplicacion/26%20Analisis%20GAP%20-%20Arquitectura.png)
+![imagen26](/img_vistas/C_Arquitectura_Sistemas/26%20Analisis%20GAP%20-%20Arquitectura.png)
 
 
 ## LABORATORIO 04 : FASE C Arquitectura de SI - Datos
@@ -107,7 +97,7 @@ El punto de vista de la Estructura de la Información es comparable a los modelo
 durante el desarrollo de casi cualquier sistema de información. Muestra la estructura de la información utilizada en la
 empresa o en un proceso o aplicación de negocio específico, en términos de tipos de datos o clases (orientadas a objetos).
 
-![imagen27](/img_vistas/C_Arquitectura_SI_Aplicacion/27%20Estructura%20de%20Datos.png)
+![imagen27](/img_vistas/C_Arquitectura_Sistemas/27%20Estructura%20de%20Datos.png)
 
 ### 28 Diseminación de Datos
 El propósito del diagrama de Diseminación de Datos es mostrar la relación entre la entidad de datos, el servicio de negocio y
@@ -116,5 +106,5 @@ entidades lógicas. Esto permite un dimensionamiento eficaz y refinar la infraes
 Además, al asignar valor comercial a los datos, se puede obtener una indicación de la criticidad comercial de los
 componentes de la aplicación.
 
-![imagen28](/img_vistas/C_Arquitectura_SI_Aplicacion/28%20Difusion%20de%20Datos.png)
+![imagen28](/img_vistas/C_Arquitectura_Sistemas/28%20Difusion%20de%20Datos.png)
 
